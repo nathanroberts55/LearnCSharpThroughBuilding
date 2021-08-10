@@ -5,3 +5,10 @@ C:\Users\bigna\Desktop\C# Applications\WordUnscrambler\WordUnscrambler\obj\Debug
 C:\Users\bigna\Desktop\C# Applications\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.csproj.CoreCompileInputs.cache
 C:\Users\bigna\Desktop\C# Applications\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.exe
 C:\Users\bigna\Desktop\C# Applications\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.pdb
+C:\Users\Owner\Desktop\C# Applications\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.exe.config
+C:\Users\Owner\Desktop\C# Applications\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.exe
+C:\Users\Owner\Desktop\C# Applications\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.pdb
+C:\Users\Owner\Desktop\C# Applications\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\C# Applications\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C# Applications\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.exe
+C:\Users\Owner\Desktop\C# Applications\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.pdb
